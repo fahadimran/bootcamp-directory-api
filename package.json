@@ -1,5 +1,5 @@
 {
-  "name": "devcamper-api",
+  "name": "bootcamp-directory-api",
   "version": "1.0.0",
   "description": "Backend for bootcamp finder application.",
   "main": "index.js",
